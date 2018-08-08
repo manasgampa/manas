@@ -16,7 +16,7 @@ import com.antra3.Employee;
 public class JDBCExample {
 
 	public static void main(String[] args) throws SQLException{
-	//new scanner1
+	//new scanner11
 	/*	Scanner sc=new Scanner(System.in);
 		System.out.println("please enter the number");
 		int no=sc.nextInt();
